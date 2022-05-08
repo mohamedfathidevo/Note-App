@@ -1,4 +1,4 @@
-package com.mohamedfathidev.noteapp.ui.theme
+package com.mohamedfathidev.noteapp.presentation.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
